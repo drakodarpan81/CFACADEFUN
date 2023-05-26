@@ -1,0 +1,6 @@
+D:\Proyectos\Proyectos\LespControl\Prueba\CFACADEFUN\bin\Release\CFACADEFUN.dll
+D:\Proyectos\Proyectos\LespControl\Prueba\CFACADEFUN\bin\Release\CFACADEFUN.pdb
+D:\Proyectos\Proyectos\LespControl\Prueba\CFACADEFUN\obj\Release\CFACADEFUN.csproj.AssemblyReference.cache
+D:\Proyectos\Proyectos\LespControl\Prueba\CFACADEFUN\obj\Release\CFACADEFUN.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyectos\LespControl\Prueba\CFACADEFUN\obj\Release\CFACADEFUN.dll
+D:\Proyectos\Proyectos\LespControl\Prueba\CFACADEFUN\obj\Release\CFACADEFUN.pdb

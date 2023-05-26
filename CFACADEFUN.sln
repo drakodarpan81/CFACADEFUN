@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFACADEFUN", "CFACADEFUN.csproj", "{5D9E27D3-35B6-4F3A-A953-B7A1E9CBED6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9E27D3-35B6-4F3A-A953-B7A1E9CBED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9E27D3-35B6-4F3A-A953-B7A1E9CBED6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7FE894-09C2-49D1-91D3-B4091B4F864D}
+	EndGlobalSection
+EndGlobal
